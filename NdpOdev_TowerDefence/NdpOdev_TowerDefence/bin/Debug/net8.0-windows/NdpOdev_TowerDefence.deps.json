@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NdpOdev_TowerDefence/1.0.0": {
+        "runtime": {
+          "NdpOdev_TowerDefence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NdpOdev_TowerDefence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
